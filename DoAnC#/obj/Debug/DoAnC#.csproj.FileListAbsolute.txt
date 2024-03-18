@@ -1,0 +1,142 @@
+C:\Users\huuth\source\repos\DoAnC#\DoAnC#\obj\Debug\DoAnC#.csproj.AssemblyReference.cache
+C:\Users\huuth\source\repos\DoAnC#\DoAnC#\obj\Debug\DoAnC_.Properties.Resources.resources
+C:\Users\huuth\source\repos\DoAnC#\DoAnC#\obj\Debug\DoAnC#.csproj.GenerateResource.cache
+C:\Users\huuth\source\repos\DoAnC#\DoAnC#\obj\Debug\DoAnC#.csproj.CoreCompileInputs.cache
+C:\Users\huuth\source\repos\DoAnC#\DoAnC#\bin\Debug\DoAnC#.exe.config
+C:\Users\huuth\source\repos\DoAnC#\DoAnC#\bin\Debug\DoAnC#.exe
+C:\Users\huuth\source\repos\DoAnC#\DoAnC#\bin\Debug\DoAnC#.pdb
+C:\Users\huuth\source\repos\DoAnC#\DoAnC#\bin\Debug\BUS.dll
+C:\Users\huuth\source\repos\DoAnC#\DoAnC#\bin\Debug\DLL.dll
+C:\Users\huuth\source\repos\DoAnC#\DoAnC#\bin\Debug\EntityFramework.dll
+C:\Users\huuth\source\repos\DoAnC#\DoAnC#\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\huuth\source\repos\DoAnC#\DoAnC#\bin\Debug\BUS.pdb
+C:\Users\huuth\source\repos\DoAnC#\DoAnC#\bin\Debug\BUS.dll.config
+C:\Users\huuth\source\repos\DoAnC#\DoAnC#\bin\Debug\DLL.pdb
+C:\Users\huuth\source\repos\DoAnC#\DoAnC#\bin\Debug\DLL.dll.config
+C:\Users\huuth\source\repos\DoAnC#\DoAnC#\bin\Debug\EntityFramework.xml
+C:\Users\huuth\source\repos\DoAnC#\DoAnC#\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\huuth\source\repos\DoAnC#\DoAnC#\obj\Debug\DoAnC#.csproj.CopyComplete
+C:\Users\huuth\source\repos\DoAnC#\DoAnC#\obj\Debug\DoAnC#.exe
+C:\Users\huuth\source\repos\DoAnC#\DoAnC#\obj\Debug\DoAnC#.pdb
+C:\Users\huuth\source\repos\DoAnC#\DoAnC#\obj\Debug\DoAnC_.DangKi.resources
+C:\Users\huuth\source\repos\DoAnC#\DoAnC#\obj\Debug\DoAnC_.DangNhap.resources
+C:\Users\huuth\source\repos\DoAnC#\DoAnC#\obj\Debug\DoAnC_.FormAdmin.resources
+C:\Users\huuth\source\repos\DoAnC#\DoAnC#\obj\Debug\DoAnC_.manhinhchinh.resources
+C:\Users\huuth\source\repos\DoAnC#\DoAnC#\obj\Debug\DoAnC_.movie1.resources
+C:\Users\huuth\source\repos\DoAnC#\DoAnC#\obj\Debug\DoAnC_.FormXuatChieu.resources
+C:\Users\huuth\source\repos\DoAnC#\DoAnC#\obj\Debug\DoAnC_.DatVeChieuPhim.resources
+C:\Users\huuth\source\repos\DoAnC#\DoAnC#\obj\Debug\DoAnC_.FormThanhToan.resources
+C:\Users\huuth\source\repos\DoAnC#\DoAnC#\obj\Debug\DoAnC_.FTaiKhoan.resources
+C:\Users\huuth\source\repos\DoAnC#\DoAnC#\obj\Debug\DoAnC_.FormVe.resources
+C:\Users\huuth\source\repos\DoAnC#\DoAnC#\obj\Debug\DoAnC_.FormDichVU.resources
+C:\Users\huuth\source\repos\DoAnC#\DoAnC#\obj\Debug\DoAnC_.FormPhim.resources
+C:\Users\huuth\source\repos\DoAnC#\DoAnC#\obj\Debug\DoAnC_.FormLichChieuPhim.resources
+C:\Users\huuth\source\repos\DoAnC#\DoAnC#\obj\Debug\DoAnC_.trangcannhanF.resources
+C:\Users\huuth\source\repos\DoAnC#\DoAnC#\obj\Debug\DoAnC_.DoiMatKhau.resources
+C:\Users\huuth\source\repos\DoAnC#\DoAnC#\obj\Debug\DoAnC_.FormVeKhachHang.resources
+C:\Users\huuth\source\repos\DoAnC#\DoAnC#\obj\Debug\DoAnC_.FormThongKe.resources
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DoAnC#\bin\Debug\DoAnC#.exe.config
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DoAnC#\bin\Debug\DoAnC#.exe
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DoAnC#\bin\Debug\DoAnC#.pdb
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DoAnC#\bin\Debug\BUS.dll
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DoAnC#\bin\Debug\DLL.dll
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DoAnC#\bin\Debug\BUS.pdb
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DoAnC#\bin\Debug\BUS.dll.config
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DoAnC#\bin\Debug\DLL.pdb
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DoAnC#\bin\Debug\DLL.dll.config
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DoAnC#\bin\Debug\EntityFramework.xml
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DoAnC#\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DoAnC#\obj\Debug\DoAnC#.csproj.AssemblyReference.cache
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DoAnC#\obj\Debug\DoAnC_.DangKi.resources
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DoAnC#\obj\Debug\DoAnC_.DangNhap.resources
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DoAnC#\obj\Debug\DoAnC_.DatVeChieuPhim.resources
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DoAnC#\obj\Debug\DoAnC_.DoiMatKhau.resources
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DoAnC#\obj\Debug\DoAnC_.FormDichVU.resources
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DoAnC#\obj\Debug\DoAnC_.FormLichChieuPhim.resources
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DoAnC#\obj\Debug\DoAnC_.FormPhim.resources
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DoAnC#\obj\Debug\DoAnC_.FTaiKhoan.resources
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DoAnC#\obj\Debug\DoAnC_.FormThanhToan.resources
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DoAnC#\obj\Debug\DoAnC_.FormThongKe.resources
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DoAnC#\obj\Debug\DoAnC_.FormVe.resources
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DoAnC#\obj\Debug\DoAnC_.FormVeKhachHang.resources
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DoAnC#\obj\Debug\DoAnC_.FormXuatChieu.resources
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DoAnC#\obj\Debug\DoAnC_.manhinhchinh.resources
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DoAnC#\obj\Debug\DoAnC_.FormAdmin.resources
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DoAnC#\obj\Debug\DoAnC_.movie1.resources
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DoAnC#\obj\Debug\DoAnC_.Properties.Resources.resources
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DoAnC#\obj\Debug\DoAnC_.trangcannhanF.resources
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DoAnC#\obj\Debug\DoAnC#.csproj.GenerateResource.cache
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DoAnC#\obj\Debug\DoAnC#.csproj.CoreCompileInputs.cache
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DoAnC#\obj\Debug\DoAnC#.csproj.CopyComplete
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DoAnC#\obj\Debug\DoAnC#.exe
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DoAnC#\obj\Debug\DoAnC#.pdb
+D:\DoAnC#\DoAnC#\obj\Debug\DoAnC#.csproj.AssemblyReference.cache
+D:\DoAnC#\DoAnC#\obj\Debug\DoAnC_.DangKi.resources
+D:\DoAnC#\DoAnC#\obj\Debug\DoAnC_.DangNhap.resources
+D:\DoAnC#\DoAnC#\obj\Debug\DoAnC_.DatVeChieuPhim.resources
+D:\DoAnC#\DoAnC#\obj\Debug\DoAnC_.DoiMatKhau.resources
+D:\DoAnC#\DoAnC#\obj\Debug\DoAnC_.FormDichVU.resources
+D:\DoAnC#\DoAnC#\obj\Debug\DoAnC_.FormLichChieuPhim.resources
+D:\DoAnC#\DoAnC#\obj\Debug\DoAnC_.FormPhim.resources
+D:\DoAnC#\DoAnC#\obj\Debug\DoAnC_.FormThanhToan.resources
+D:\DoAnC#\DoAnC#\obj\Debug\DoAnC_.FormThongKe.resources
+D:\DoAnC#\DoAnC#\obj\Debug\DoAnC_.FormVe.resources
+D:\DoAnC#\DoAnC#\obj\Debug\DoAnC_.FormVeKhachHang.resources
+D:\DoAnC#\DoAnC#\obj\Debug\DoAnC_.FormXuatChieu.resources
+D:\DoAnC#\DoAnC#\obj\Debug\DoAnC_.manhinhchinh.resources
+D:\DoAnC#\DoAnC#\obj\Debug\DoAnC_.FormAdmin.resources
+D:\DoAnC#\DoAnC#\obj\Debug\DoAnC_.movie1.resources
+D:\DoAnC#\DoAnC#\obj\Debug\DoAnC_.Properties.Resources.resources
+D:\DoAnC#\DoAnC#\obj\Debug\DoAnC#.csproj.GenerateResource.cache
+D:\DoAnC#\DoAnC#\obj\Debug\DoAnC#.csproj.CoreCompileInputs.cache
+D:\DoAnC#\DoAnC#\obj\Debug\DoAnC#.exe
+D:\DoAnC#\DoAnC#\obj\Debug\DoAnC#.pdb
+D:\DoAnC#\DoAnC#\bin\Debug\DoAnC#.exe.config
+D:\DoAnC#\DoAnC#\bin\Debug\DoAnC#.exe
+D:\DoAnC#\DoAnC#\bin\Debug\DoAnC#.pdb
+D:\DoAnC#\DoAnC#\bin\Debug\BUS.dll
+D:\DoAnC#\DoAnC#\bin\Debug\DLL.dll
+D:\DoAnC#\DoAnC#\bin\Debug\BUS.pdb
+D:\DoAnC#\DoAnC#\bin\Debug\BUS.dll.config
+D:\DoAnC#\DoAnC#\bin\Debug\DLL.pdb
+D:\DoAnC#\DoAnC#\bin\Debug\DLL.dll.config
+D:\DoAnC#\DoAnC#\bin\Debug\EntityFramework.xml
+D:\DoAnC#\DoAnC#\bin\Debug\EntityFramework.SqlServer.xml
+D:\DoAnC#\DoAnC#\obj\Debug\DoAnC_.trangcanhanF.resources
+D:\DoAnC#\DoAnC#\obj\Debug\DoAnC#.csproj.CopyComplete
+D:\DoAnC#\DoAnC#\obj\Debug\DoAnC_.FromTaiKhoan.resources
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DoAnC#\bin\Debug\DoAnC#.exe.config
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DoAnC#\bin\Debug\DoAnC#.exe
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DoAnC#\bin\Debug\DoAnC#.pdb
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DoAnC#\bin\Debug\BUS.dll
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DoAnC#\bin\Debug\DLL.dll
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DoAnC#\bin\Debug\BUS.pdb
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DoAnC#\bin\Debug\BUS.dll.config
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DoAnC#\bin\Debug\DLL.pdb
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DoAnC#\bin\Debug\DLL.dll.config
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DoAnC#\bin\Debug\EntityFramework.xml
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DoAnC#\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DoAnC#\obj\Debug\DoAnC#.csproj.AssemblyReference.cache
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DoAnC#\obj\Debug\DoAnC_.DangKi.resources
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DoAnC#\obj\Debug\DoAnC_.DangNhap.resources
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DoAnC#\obj\Debug\DoAnC_.DatVeChieuPhim.resources
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DoAnC#\obj\Debug\DoAnC_.DoiMatKhau.resources
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DoAnC#\obj\Debug\DoAnC_.FormDichVU.resources
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DoAnC#\obj\Debug\DoAnC_.FormLichChieuPhim.resources
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DoAnC#\obj\Debug\DoAnC_.FormPhim.resources
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DoAnC#\obj\Debug\DoAnC_.FromTaiKhoan.resources
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DoAnC#\obj\Debug\DoAnC_.FormThanhToan.resources
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DoAnC#\obj\Debug\DoAnC_.FormThongKe.resources
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DoAnC#\obj\Debug\DoAnC_.FormVe.resources
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DoAnC#\obj\Debug\DoAnC_.FormVeKhachHang.resources
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DoAnC#\obj\Debug\DoAnC_.FormXuatChieu.resources
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DoAnC#\obj\Debug\DoAnC_.manhinhchinh.resources
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DoAnC#\obj\Debug\DoAnC_.FormAdmin.resources
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DoAnC#\obj\Debug\DoAnC_.movie1.resources
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DoAnC#\obj\Debug\DoAnC_.Properties.Resources.resources
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DoAnC#\obj\Debug\DoAnC_.trangcanhanF.resources
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DoAnC#\obj\Debug\DoAnC#.csproj.GenerateResource.cache
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DoAnC#\obj\Debug\DoAnC#.csproj.CoreCompileInputs.cache
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DoAnC#\obj\Debug\DoAnC#.csproj.CopyComplete
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DoAnC#\obj\Debug\DoAnC#.exe
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DoAnC#\obj\Debug\DoAnC#.pdb

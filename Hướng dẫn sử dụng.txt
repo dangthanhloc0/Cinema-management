@@ -1,0 +1,1 @@
+-Các bạn build 1 lần để chạy databse xong vô databse để nhập liệu 1 tài khoản với vai trò là admin để thêm các dữ liệu khác và chạy lại nha

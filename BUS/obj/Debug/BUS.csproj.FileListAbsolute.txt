@@ -1,0 +1,54 @@
+C:\Users\huuth\source\repos\DoAnC#\BUS\bin\Debug\BUS.dll.config
+C:\Users\huuth\source\repos\DoAnC#\BUS\bin\Debug\BUS.dll
+C:\Users\huuth\source\repos\DoAnC#\BUS\bin\Debug\BUS.pdb
+C:\Users\huuth\source\repos\DoAnC#\BUS\bin\Debug\DLL.dll
+C:\Users\huuth\source\repos\DoAnC#\BUS\bin\Debug\EntityFramework.dll
+C:\Users\huuth\source\repos\DoAnC#\BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\huuth\source\repos\DoAnC#\BUS\bin\Debug\DLL.pdb
+C:\Users\huuth\source\repos\DoAnC#\BUS\bin\Debug\DLL.dll.config
+C:\Users\huuth\source\repos\DoAnC#\BUS\bin\Debug\EntityFramework.xml
+C:\Users\huuth\source\repos\DoAnC#\BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\huuth\source\repos\DoAnC#\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\huuth\source\repos\DoAnC#\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\huuth\source\repos\DoAnC#\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\huuth\source\repos\DoAnC#\BUS\obj\Debug\BUS.dll
+C:\Users\huuth\source\repos\DoAnC#\BUS\obj\Debug\BUS.pdb
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\BUS\obj\Debug\BUS.dll
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\BUS\obj\Debug\BUS.pdb
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\BUS\bin\Debug\BUS.dll.config
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\BUS\bin\Debug\BUS.dll
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\BUS\bin\Debug\BUS.pdb
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\BUS\bin\Debug\DLL.dll
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\BUS\bin\Debug\DLL.pdb
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\BUS\bin\Debug\DLL.dll.config
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\BUS\bin\Debug\EntityFramework.xml
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\DoAnC#\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\DoAnC#\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\DoAnC#\BUS\obj\Debug\BUS.dll
+D:\DoAnC#\BUS\obj\Debug\BUS.pdb
+D:\DoAnC#\BUS\bin\Debug\BUS.dll.config
+D:\DoAnC#\BUS\bin\Debug\BUS.dll
+D:\DoAnC#\BUS\bin\Debug\BUS.pdb
+D:\DoAnC#\BUS\bin\Debug\DLL.dll
+D:\DoAnC#\BUS\bin\Debug\DLL.pdb
+D:\DoAnC#\BUS\bin\Debug\DLL.dll.config
+D:\DoAnC#\BUS\bin\Debug\EntityFramework.xml
+D:\DoAnC#\BUS\bin\Debug\EntityFramework.SqlServer.xml
+D:\DoAnC#\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\BUS\bin\Debug\BUS.dll.config
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\BUS\bin\Debug\BUS.dll
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\BUS\bin\Debug\BUS.pdb
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\BUS\bin\Debug\DLL.dll
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\BUS\bin\Debug\DLL.pdb
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\BUS\bin\Debug\DLL.dll.config
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\BUS\bin\Debug\EntityFramework.xml
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\BUS\obj\Debug\BUS.dll
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\BUS\obj\Debug\BUS.pdb

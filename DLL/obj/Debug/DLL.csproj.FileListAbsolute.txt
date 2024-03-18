@@ -1,0 +1,48 @@
+C:\Users\huuth\source\repos\DoAnC#\DLL\bin\Debug\DLL.dll.config
+C:\Users\huuth\source\repos\DoAnC#\DLL\bin\Debug\DLL.dll
+C:\Users\huuth\source\repos\DoAnC#\DLL\bin\Debug\DLL.pdb
+C:\Users\huuth\source\repos\DoAnC#\DLL\bin\Debug\EntityFramework.dll
+C:\Users\huuth\source\repos\DoAnC#\DLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\huuth\source\repos\DoAnC#\DLL\bin\Debug\EntityFramework.xml
+C:\Users\huuth\source\repos\DoAnC#\DLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\huuth\source\repos\DoAnC#\DLL\obj\Debug\DLL.csproj.AssemblyReference.cache
+C:\Users\huuth\source\repos\DoAnC#\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+C:\Users\huuth\source\repos\DoAnC#\DLL\obj\Debug\DLL.csproj.CopyComplete
+C:\Users\huuth\source\repos\DoAnC#\DLL\obj\Debug\DLL.dll
+C:\Users\huuth\source\repos\DoAnC#\DLL\obj\Debug\DLL.pdb
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DLL\bin\Debug\DLL.dll.config
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DLL\bin\Debug\DLL.dll
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DLL\bin\Debug\DLL.pdb
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DLL\bin\Debug\EntityFramework.dll
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DLL\bin\Debug\EntityFramework.xml
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DLL\obj\Debug\DLL.csproj.AssemblyReference.cache
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DLL\obj\Debug\DLL.csproj.CopyComplete
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DLL\obj\Debug\DLL.dll
+C:\Users\trant\Documents\Zalo Received Files\1\DoAnC#\DLL\obj\Debug\DLL.pdb
+D:\DoAnC#\DLL\bin\Debug\DLL.dll.config
+D:\DoAnC#\DLL\bin\Debug\DLL.dll
+D:\DoAnC#\DLL\bin\Debug\DLL.pdb
+D:\DoAnC#\DLL\bin\Debug\EntityFramework.dll
+D:\DoAnC#\DLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\DoAnC#\DLL\bin\Debug\EntityFramework.xml
+D:\DoAnC#\DLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\DoAnC#\DLL\obj\Debug\DLL.csproj.AssemblyReference.cache
+D:\DoAnC#\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+D:\DoAnC#\DLL\obj\Debug\DLL.csproj.CopyComplete
+D:\DoAnC#\DLL\obj\Debug\DLL.dll
+D:\DoAnC#\DLL\obj\Debug\DLL.pdb
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DLL\bin\Debug\DLL.dll.config
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DLL\bin\Debug\DLL.dll
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DLL\bin\Debug\DLL.pdb
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DLL\bin\Debug\EntityFramework.dll
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DLL\bin\Debug\EntityFramework.xml
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DLL\obj\Debug\DLL.csproj.AssemblyReference.cache
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DLL\obj\Debug\DLL.csproj.CopyComplete
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DLL\obj\Debug\DLL.dll
+C:\Users\huuth\Documents\Zalo Received Files\DoAnC#\DLL\obj\Debug\DLL.pdb
